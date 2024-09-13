@@ -6,6 +6,8 @@
 
 This website was created using React.js and was designed as a way to practice REST API HTTP Methods. It allows users to add, delete, and toggle reminders for tasks stored in a JSON server.
 
+<ins>Highlighted skills</ins>: React.js, API calls, HTML, CSS, JavaScript, DOM Manipulation, Conditional Rendering
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
