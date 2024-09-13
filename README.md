@@ -1,3 +1,11 @@
+# Brief Summary
+
+<p align="center">
+  <img width="450" alt="Screenshot 2024-08-27 at 7 49 53 PM" src="https://github.com/user-attachments/assets/e587f808-a43c-4273-bb4c-b627aec71d34">
+</p>
+
+This website was created using React.js and was designed as a way to practice REST API HTTP Methods. It allows users to add, delete, and toggle reminders for tasks stored in a JSON server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
